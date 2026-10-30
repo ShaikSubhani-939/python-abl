@@ -1,3 +1,4 @@
+#EXAMINATION RESULT AND GRACE-MARK VALIDATION 
 marks = [int(input("Enter marks for subject " + str(i) + ": "))
          for i in range(1, 4)]
 
