@@ -1,3 +1,4 @@
+#ATM TRANSCATION SEQUENCE SIMULATION
 balance = 1000.0
 count = int(input("Number of transactions: "))
 
