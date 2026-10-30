@@ -1,3 +1,4 @@
+#HOSPITAL BILLING AND PATIENT CLASSIFICATION
 consultation = float(input("Consultation charge: "))
 diagnostics = float(input("Diagnostic charge: "))
 treatment = float(input("Treatment charge: "))
