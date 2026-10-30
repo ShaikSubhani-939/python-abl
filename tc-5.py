@@ -1,3 +1,4 @@
+#MANUFACTURING COST AND PROFITABILITY
 material = float(input("Material cost: "))
 labour = float(input("Labour cost: "))
 machine = float(input("Machine cost: "))
