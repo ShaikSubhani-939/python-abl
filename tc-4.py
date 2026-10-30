@@ -1,3 +1,4 @@
+#RETAIL BILLING WITH DISCOUNT
 subtotal = 0
 
 for item in range(1, 4):
